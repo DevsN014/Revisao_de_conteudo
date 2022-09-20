@@ -6,6 +6,10 @@ body {
     color:rgb(255, 81, 0);
 }
 
+.topico {
+    background-color:rgba(176, 245, 237, 0.486);
+}
+
 .cabecalho {
     background-color: rgb(0, 0, 0);
     color:blanchedalmond;
